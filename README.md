@@ -13,6 +13,7 @@ npm install
 ### foreverjs/forever-monitor
 
 Run from package local, `forever-monitor`:
+
 ```bash
 npm run forever
 ```
